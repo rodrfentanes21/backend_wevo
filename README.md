@@ -6,7 +6,25 @@ Este CRUD foi feito como parte do processo seletivo da WEVO, e é complementar a
 
 ### Métodos do CRUD funcionando
 
+#### Dados no banco de dados MongoDB
+
 <img src="imgs\dados.png" />
+
+#### Metodo GET
+
+<img src="imgs\img_get.png" />
+
+#### Metodo POST
+
+<img src="imgs\img_post.png" />
+
+#### Metodo PATCH
+
+<img src="imgs\img_patch.png" />
+
+#### Metodo DELETE
+
+<img src="imgs\img_delete.png" />
 
 <hr />
 
