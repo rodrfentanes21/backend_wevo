@@ -1,6 +1,6 @@
 ## Desafio WEVO Repositório BACK END 
 
-Este CRUD foi feito como parte do processo seletivo da WEVO, e é complementar ao repositório de frontend https://github.com/rodrfentanes21/cadastro_wevo (o frontend inteiro está no repositório linkado).
+Este CRUD foi feito como parte do processo seletivo da WEVO, e é complementar ao repositório de frontend https://github.com/rodrfentanes21/cadastro_wevo (o frontend inteiro e consumindo a API está no repositório linkado).
 
 <hr />
 
