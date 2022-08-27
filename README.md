@@ -6,29 +6,7 @@ Este CRUD foi feito como parte do processo seletivo da WEVO, e é complementar a
 
 ### Métodos do CRUD funcionando
 
-
-
-#### Método GET
-
-![imagem metodo get](imgs\img_get.png)
-
-
-
-#### Método POST
-
-![imagem metodo post](imgs\img_post.png)
-
-
-
-#### Método PATCH
-
-![imagem metodo patch](imgs\img_patch.png)
-
-
-
-#### Método DELETE
-
-![imagem metodo delete](imgs\img_delete.png)
+Checar a pastas imgs para imagens dos métodos no postamn
 
 
 #### Dados no MongoDB
