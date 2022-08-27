@@ -6,12 +6,7 @@ Este CRUD foi feito como parte do processo seletivo da WEVO, e é complementar a
 
 ### Métodos do CRUD funcionando
 
-Checar a pastas imgs para imagens dos métodos no postamn
-
-
-#### Dados no MongoDB
-
-![dados no mongodb](imgs\dados.png)
+Checar a pastas imgs para imagens dos métodos no Postman
 
 <hr />
 
